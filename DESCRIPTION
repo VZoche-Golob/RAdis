@@ -1,0 +1,8 @@
+Package: RAdis
+Title: RAdis contains functions to read ADIS data files and to process them for further analysis
+Version: 0.1
+Authors@R: person("Veit", "Zoche-Golob", email = "zoche-golob@freenet.de", role = c("aut", "cre"))
+Description: RAdis provides functions to read data in ADIS (Agrocultural Data Interchange Syntax) files into R. It does NOT provide a dictionary for the ADED (Agrocultural Data Exchange Dictionary) content of the ADIS files. Dictionaries can be found at http://ian.lkv-nrw.de/index.php?id=309 and https://webapp.lkv-nrw.de/AdedDataDictionary/ .
+Depends: R (>= 3.2.1)
+License: GPL-3
+LazyData: true
