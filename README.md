@@ -1,2 +1,2 @@
 # RAdis
-"Radis" is "radish" in some German dialects - RAdis provides you functions to import data from ADIS (Agrocultural Data Interchange Syntax) files into R (https://cran.r-project.org/).
+"Radis" is "radish" in some German dialects - RAdis provides you functions to import data from ADIS (Agrocultural Data Interchange Syntax) files into R (https://cran.r-project.org/). It does NOT provide a dictionary for the ADED (Agrocultural Data Exchange Dictionary) content of the ADIS files. Dictionaries can be found at http://ian.lkv-nrw.de/index.php?id=309 and https://webapp.lkv-nrw.de/AdedDataDictionary/.
